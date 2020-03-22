@@ -1,0 +1,19 @@
+.myMargin{
+    margin: 10px;
+    justify-content: center;
+}
+
+.myMargin2{
+    margin: 3px;
+}
+
+.col-md-4{
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+.myBorder{
+    border: solid 5px;
+}
